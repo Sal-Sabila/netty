@@ -1,0 +1,1 @@
+console.log("Website Revolusi Industri 4.0 aktif!");
